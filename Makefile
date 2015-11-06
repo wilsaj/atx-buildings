@@ -59,7 +59,7 @@ json/atx-blockgroups.json: shp/texas-blockgroups.shp
 	ogr2ogr -f "GeoJSON" -clipdst -98.2 29.9 -97.3 30.7 -t_srs EPSG:4326 $@ $<
 
 # make a file that contains only the blockgroups that we have some data for
-json/atx-blockgroups-matching.json: blockgroups
+json/atx-blockgroups-matching.json:
 	mkdir -p $(dir $@)
 	cat json/blockgroups/*/blockgroup.json | \
 		$(BABEL) scripts/simplify-geometries.js --tolerance 0.0009 | \
