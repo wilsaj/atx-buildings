@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.36517" lon="-98.030915" changeset="false"><tag k="addr:street" v="Lakehurst Loop"/><tag k="addr:housenumber" v="19547"/><tag k="addr:postcode" v="78669"/></node></osm>

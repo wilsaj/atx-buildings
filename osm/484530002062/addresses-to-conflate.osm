@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.333581" lon="-97.74257" changeset="false"><tag k="addr:street" v="Wynona Avenue"/><tag k="addr:housenumber" v="5702"/><tag k="addr:postcode" v="78756"/></node></osm>

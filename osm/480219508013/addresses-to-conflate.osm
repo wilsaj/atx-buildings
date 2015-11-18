@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.131192" lon="-97.569471" changeset="false"><tag k="addr:street" v="Edge Rock Drive"/><tag k="addr:housenumber" v="138"/><tag k="addr:postcode" v="78617"/></node></osm>

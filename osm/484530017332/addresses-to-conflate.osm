@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.226129" lon="-97.895729" changeset="false"><tag k="addr:street" v="La Tosca Drive"/><tag k="addr:housenumber" v="8507"/><tag k="addr:postcode" v="78737"/></node></osm>

@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.343499" lon="-97.81869" changeset="false"><tag k="addr:street" v="Barefoot Cove"/><tag k="addr:housenumber" v="7113"/><tag k="addr:postcode" v="78730"/></node></osm>
