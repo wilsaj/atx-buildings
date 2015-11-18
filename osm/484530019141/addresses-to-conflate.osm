@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.254549" lon="-97.843661" changeset="false"><tag k="addr:street" v="Travis Country Circle"/><tag k="addr:housenumber" v="3230"/><tag k="coa:place_id" v="230862"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.254549" lon="-97.843661" changeset="false"><tag k="addr:street" v="Travis Country Circle"/><tag k="addr:housenumber" v="3230"/></node></osm>

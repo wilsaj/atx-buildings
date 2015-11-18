@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.181008" lon="-97.791323" changeset="false"><tag k="addr:street" v="Mairo Street"/><tag k="addr:housenumber" v="500"/><tag k="coa:place_id" v="543856"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.181008" lon="-97.791323" changeset="false"><tag k="addr:street" v="Mairo Street"/><tag k="addr:housenumber" v="500"/></node></osm>

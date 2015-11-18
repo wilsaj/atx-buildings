@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.224544" lon="-97.737785" changeset="false"><tag k="addr:street" v="Metcalfe Road"/><tag k="addr:housenumber" v="2800"/><tag k="coa:place_id" v="543460"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.224544" lon="-97.737785" changeset="false"><tag k="addr:street" v="Metcalfe Road"/><tag k="addr:housenumber" v="2800"/></node></osm>

@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.271336" lon="-97.803667" changeset="false"><tag k="addr:street" v="Walsh Tarlton Lane"/><tag k="addr:housenumber" v="1300"/><tag k="coa:place_id" v="124370"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.271336" lon="-97.803667" changeset="false"><tag k="addr:street" v="Walsh Tarlton Lane"/><tag k="addr:housenumber" v="1300"/></node></osm>

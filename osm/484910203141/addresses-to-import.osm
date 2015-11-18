@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.569326" lon="-97.925276" changeset="false"><tag k="addr:street" v="Honeycomb Hollow"/><tag k="addr:housenumber" v="15141"/><tag k="coa:place_id" v="1151902"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.569326" lon="-97.925276" changeset="false"><tag k="addr:street" v="Honeycomb Hollow"/><tag k="addr:housenumber" v="15141"/></node></osm>

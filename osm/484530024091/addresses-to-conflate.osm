@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.21041" lon="-97.787624" changeset="false"><tag k="addr:street" v="Emerald Forest Drive"/><tag k="addr:housenumber" v="5616"/><tag k="coa:place_id" v="638613"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.21041" lon="-97.787624" changeset="false"><tag k="addr:street" v="Emerald Forest Drive"/><tag k="addr:housenumber" v="5616"/></node></osm>

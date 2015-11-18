@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.527138" lon="-97.619838" changeset="false"><tag k="addr:street" v="Palm Valley Boulevard"/><tag k="addr:housenumber" v="3939"/><tag k="coa:place_id" v="3431001"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.527138" lon="-97.619838" changeset="false"><tag k="addr:street" v="Palm Valley Boulevard"/><tag k="addr:housenumber" v="3939"/></node></osm>

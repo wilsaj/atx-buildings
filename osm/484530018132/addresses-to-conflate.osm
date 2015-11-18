@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.342522" lon="-97.69278" changeset="false"><tag k="addr:street" v="Rutherford Lane"/><tag k="addr:housenumber" v="1000"/><tag k="coa:place_id" v="3113836"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.342522" lon="-97.69278" changeset="false"><tag k="addr:street" v="Rutherford Lane"/><tag k="addr:housenumber" v="1000"/></node></osm>
