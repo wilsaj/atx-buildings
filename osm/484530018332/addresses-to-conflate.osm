@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.372773" lon="-97.668907" changeset="false"><tag k="addr:street" v="Tom Adams Drive"/><tag k="addr:housenumber" v="11211"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.372773" lon="-97.668907" changeset="false"><tag k="addr:street" v="Tom Adams Drive"/><tag k="addr:housenumber" v="11211"/><tag k="addr:postcode" v="78753"/></node></osm>

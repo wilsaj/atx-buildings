@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.314252" lon="-97.720849" changeset="false"><tag k="addr:street" v="Avenue H"/><tag k="addr:housenumber" v="5011"/><tag k="addr:postcode" v="78751"/></node></osm>

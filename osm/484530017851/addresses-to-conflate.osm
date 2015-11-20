@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.443553" lon="-97.741246" changeset="false"><tag k="addr:street" v="West Parmer Lane"/><tag k="addr:housenumber" v="6010"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.443553" lon="-97.741246" changeset="false"><tag k="addr:street" v="West Parmer Lane"/><tag k="addr:housenumber" v="6010"/><tag k="addr:postcode" v="78727"/></node></osm>

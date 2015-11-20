@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.283128" lon="-97.646457" changeset="false"><tag k="addr:street" v="Sendero Hills Parkway"/><tag k="addr:housenumber" v="5329"/><tag k="addr:postcode" v="78724"/></node></osm>

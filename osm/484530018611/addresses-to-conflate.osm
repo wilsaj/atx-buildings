@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.457657" lon="-97.640758" changeset="false"><tag k="addr:street" v="Gower Street"/><tag k="addr:housenumber" v="16800"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.457657" lon="-97.640758" changeset="false"><tag k="addr:street" v="Gower Street"/><tag k="addr:housenumber" v="16800"/><tag k="addr:postcode" v="78660"/></node></osm>

@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.254531" lon="-97.783522" changeset="false"><tag k="addr:street" v="Barton Hills Drive"/><tag k="addr:housenumber" v="2108"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.254531" lon="-97.783522" changeset="false"><tag k="addr:street" v="Barton Hills Drive"/><tag k="addr:housenumber" v="2108"/><tag k="addr:postcode" v="78704"/></node></osm>

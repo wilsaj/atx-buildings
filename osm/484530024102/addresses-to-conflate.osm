@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.205587" lon="-97.789485" changeset="false"><tag k="addr:street" v="Turtle Creek Boulevard"/><tag k="addr:housenumber" v="1010"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.205587" lon="-97.789485" changeset="false"><tag k="addr:street" v="Turtle Creek Boulevard"/><tag k="addr:housenumber" v="1010"/><tag k="addr:postcode" v="78745"/></node></osm>

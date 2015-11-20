@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.457459" lon="-97.678671" changeset="false"><tag k="addr:street" v="Bratton Lane"/><tag k="addr:housenumber" v="15508"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.457459" lon="-97.678671" changeset="false"><tag k="addr:street" v="Bratton Lane"/><tag k="addr:housenumber" v="15508"/><tag k="addr:postcode" v="78728"/></node></osm>

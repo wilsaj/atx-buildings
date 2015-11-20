@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.288334" lon="-97.837339" changeset="false"><tag k="addr:street" v="Indian Canyon Cove"/><tag k="addr:housenumber" v="1202"/><tag k="addr:postcode" v="78746"/></node></osm>

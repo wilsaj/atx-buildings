@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.168336" lon="-97.782595" changeset="false"><tag k="addr:street" v="I 35 Frontage Road,1100"/><tag k="addr:housenumber" v="8801"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.168336" lon="-97.782595" changeset="false"><tag k="addr:street" v="I 35 Frontage Road"/><tag k="addr:housenumber" v="8801"/><tag k="addr:postcode" v="78744"/></node></osm>

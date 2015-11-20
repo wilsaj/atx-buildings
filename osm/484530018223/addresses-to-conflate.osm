@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.375789" lon="-97.690307" changeset="false"><tag k="addr:street" v="North Lamar Boulevard"/><tag k="addr:housenumber" v="10600"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.375789" lon="-97.690307" changeset="false"><tag k="addr:street" v="North Lamar Boulevard"/><tag k="addr:housenumber" v="10600"/><tag k="addr:postcode" v="78758"/></node></osm>

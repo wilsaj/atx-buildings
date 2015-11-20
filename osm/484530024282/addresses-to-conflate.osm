@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.145032" lon="-97.781768" changeset="false"><tag k="addr:street" v="River Plantation Drive"/><tag k="addr:housenumber" v="10301"/><tag k="addr:postcode" v="78747"/></node></osm>

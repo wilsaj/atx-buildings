@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.351645" lon="-97.412842" changeset="false"><tag k="addr:street" v="Highway 290"/><tag k="addr:housenumber" v="18811"/><tag k="addr:postcode" v="78621"/></node></osm>

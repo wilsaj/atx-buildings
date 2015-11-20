@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.414479" lon="-97.69025" changeset="false"><tag k="addr:street" v="Metric Boulevard"/><tag k="addr:housenumber" v="12550"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.414479" lon="-97.69025" changeset="false"><tag k="addr:street" v="Metric Boulevard"/><tag k="addr:housenumber" v="12550"/><tag k="addr:postcode" v="78727"/></node></osm>

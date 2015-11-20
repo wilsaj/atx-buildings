@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.407334" lon="-97.676466" changeset="false"><tag k="addr:street" v="North Interstate Highway 35 Service Road"/><tag k="addr:housenumber" v="12536"/><tag k="addr:postcode" v="78753"/></node></osm>

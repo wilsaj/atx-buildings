@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.456491" lon="-97.767565" changeset="false"><tag k="addr:street" v="Anderson Mill Road"/><tag k="addr:housenumber" v="8516"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.456491" lon="-97.767565" changeset="false"><tag k="addr:street" v="Anderson Mill Road"/><tag k="addr:housenumber" v="8516"/><tag k="addr:postcode" v="78729"/></node></osm>

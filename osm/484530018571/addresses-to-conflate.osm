@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.46079" lon="-97.658248" changeset="false"><tag k="addr:street" v="Royston Lane"/><tag k="addr:housenumber" v="1709"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.46079" lon="-97.658248" changeset="false"><tag k="addr:street" v="Royston Lane"/><tag k="addr:housenumber" v="1709"/><tag k="addr:postcode" v="78660"/></node></osm>

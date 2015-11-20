@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.279222" lon="-97.687153" changeset="false"><tag k="addr:street" v="East 12th Street"/><tag k="addr:housenumber" v="4140"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.279222" lon="-97.687153" changeset="false"><tag k="addr:street" v="East 12th Street"/><tag k="addr:housenumber" v="4140"/><tag k="addr:postcode" v="78721"/></node></osm>

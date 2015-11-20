@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.314121" lon="-97.657016" changeset="false"><tag k="addr:street" v="Lazy Creek Drive"/><tag k="addr:housenumber" v="7309"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="github.com/aaronlidman/osm-and-geojson"><node id="-1" lat="30.314121" lon="-97.657016" changeset="false"><tag k="addr:street" v="Lazy Creek Drive"/><tag k="addr:housenumber" v="7309"/><tag k="addr:postcode" v="78724"/></node></osm>
