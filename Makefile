@@ -23,6 +23,23 @@ clean:
 	rm -rf zip
 
 
+# download mapzen extract
+zip/austin_texas.osm2pgsql-geojson.zip:
+	mkdir -p $(dir $@)
+	curl 'https://s3.amazonaws.com/metro-extracts.mapzen.com/austin_texas.osm2pgsql-geojson.zip' -o $@.download
+	mv $@.download $@
+
+# unzip mapzen extracts
+json/extract-austin_texas.osm2pgsql: zip/austin_texas.osm2pgsql-geojson.zip
+	rm -rf $@
+	unzip -d $@ $<
+	touch $@
+
+# make an mbtiles file of addressed things
+mbtiles/austin.mbtiles: json/extract-austin_texas.osm2pgsql
+	mkdir -p $(dir $@)
+	tippecanoe -m 6 -z 16 -o $@ $</*
+
 # download zip files from CoA
 zip/building_footprints_2013.zip:
 	mkdir -p $(dir $@)
