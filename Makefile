@@ -5,7 +5,7 @@ USERNAME_FILE := ./secrets/osm-username
 PASSWORD_FILE := ./secrets/osm-password
 
 
-.PHONY: addresses buildings clean json tiles blockgroups blockgroup-%
+.PHONY: addresses buildings clean json tiles blockgroups blockgroup-% reduce
 .SECONDARY:
 
 all: blockgroups
@@ -38,7 +38,10 @@ json/extract-austin_texas.osm2pgsql: zip/austin_texas.osm2pgsql-geojson.zip
 # make an mbtiles file of addressed things
 mbtiles/austin.mbtiles: json/extract-austin_texas.osm2pgsql
 	mkdir -p $(dir $@)
-	tippecanoe -m 6 -z 16 -o $@ $</*
+	tippecanoe -l data -m 6 -z 14 -o $@ $</*
+
+reduce:
+	$(BABEL) scripts/qa/count-reduce.js
 
 # download zip files from CoA
 zip/building_footprints_2013.zip:
