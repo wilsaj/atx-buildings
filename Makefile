@@ -49,8 +49,8 @@ mbtiles/austin.mbtiles: json/extract-austin_texas.osm2pgsql/clean-combined.json
 	mkdir -p $(dir $@)
 	tippecanoe -l data -m 6 -z 14 -o $@ $<
 
-reduce:
-	$(BABEL) scripts/qa/count-reduce.js
+txt/duplicate-addresses.txt:
+	$(BABEL) scripts/qa/duplicate-addresses-reduce.js > $@
 
 # download zip files from CoA
 zip/building_footprints_2013.zip:
