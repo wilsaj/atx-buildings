@@ -29,16 +29,25 @@ zip/austin_texas.osm2pgsql-geojson.zip:
 	curl 'https://s3.amazonaws.com/metro-extracts.mapzen.com/austin_texas.osm2pgsql-geojson.zip' -o $@.download
 	mv $@.download $@
 
-# unzip mapzen extracts
-json/extract-austin_texas.osm2pgsql: zip/austin_texas.osm2pgsql-geojson.zip
-	rm -rf $@
-	unzip -d $@ $<
+# unzip raw extract data
+json/extract-austin_texas.osm2pgsql/raw/%.geojson: zip/austin_texas.osm2pgsql-geojson.zip
+	mkdir -p $(dir $@)
+	unzip $< $(notdir $@) -d $(dir $@)
 	touch $@
 
+# adjust and clean up extract data
+json/extract-austin_texas.osm2pgsql/clean-combined.json: \
+			json/extract-austin_texas.osm2pgsql/raw/austin_texas_osm_line.geojson \
+			json/extract-austin_texas.osm2pgsql/raw/austin_texas_osm_point.geojson \
+			json/extract-austin_texas.osm2pgsql/raw/austin_texas_osm_polygon.geojson
+	cat $^ | \
+		$(BABEL) scripts/uncollect-features.js | \
+		$(BABEL) scripts/cleanup-extract-features.js > $@
+
 # make an mbtiles file of addressed things
-mbtiles/austin.mbtiles: json/extract-austin_texas.osm2pgsql
+mbtiles/austin.mbtiles: json/extract-austin_texas.osm2pgsql/clean-combined.json
 	mkdir -p $(dir $@)
-	tippecanoe -l data -m 6 -z 14 -o $@ $</*
+	tippecanoe -l data -m 6 -z 14 -o $@ $<
 
 reduce:
 	$(BABEL) scripts/qa/count-reduce.js
